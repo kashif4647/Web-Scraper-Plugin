@@ -1,0 +1,2036 @@
+{
+    "categories": [
+        {
+            "name": "配件飾品",
+            "url": "https://www.pinkoi.com/browse?category=2",
+            "cid": 2,
+            "sub-cats": [
+                {
+                    "name": "耳環/耳夾",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=203",
+                    "cid": 203
+                },
+                {
+                    "name": "手鍊/手環",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=205",
+                    "cid": 205
+                },
+                {
+                    "name": "項鍊",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=201",
+                    "cid": 201
+                },
+                {
+                    "name": "頸鏈",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=244",
+                    "cid": 244
+                },
+                {
+                    "name": "鎖骨鍊",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=245",
+                    "cid": 245
+                },
+                {
+                    "name": "長項鍊",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=246",
+                    "cid": 246
+                },
+                {
+                    "name": "戒指",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=202",
+                    "cid": 202
+                },
+                {
+                    "name": "對戒",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=243",
+                    "cid": 243
+                },
+                {
+                    "name": "腳鍊/腳環",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=228",
+                    "cid": 228
+                },
+                {
+                    "name": "胸針",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=210",
+                    "cid": 210
+                },
+                {
+                    "name": "徽章/別針",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=240",
+                    "cid": 240
+                },
+                {
+                    "name": "胸花/手腕花",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=230",
+                    "cid": 230
+                },
+                {
+                    "name": "髮飾",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=204",
+                    "cid": 204
+                },
+                {
+                    "name": "髮帶/髮箍",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=229",
+                    "cid": 229
+                },
+                {
+                    "name": "眼鏡/眼鏡框",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=216",
+                    "cid": 216
+                },
+                {
+                    "name": "太陽眼鏡/墨鏡",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=234",
+                    "cid": 234
+                },
+                {
+                    "name": "女錶",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=215",
+                    "cid": 215
+                },
+                {
+                    "name": "男錶/中性錶",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=231",
+                    "cid": 231
+                },
+                {
+                    "name": "對錶/情侶錶",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=232",
+                    "cid": 232
+                },
+                {
+                    "name": "錶帶",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=233",
+                    "cid": 233
+                },
+                {
+                    "name": "帽子",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=208",
+                    "cid": 208
+                },
+                {
+                    "name": "手套",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=209",
+                    "cid": 209
+                },
+                {
+                    "name": "圍巾/披肩",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=236",
+                    "cid": 236
+                },
+                {
+                    "name": "絲巾",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=207",
+                    "cid": 207
+                },
+                {
+                    "name": "腰帶/皮帶",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=225",
+                    "cid": 225
+                },
+                {
+                    "name": "領帶/領帶夾",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=222",
+                    "cid": 222
+                },
+                {
+                    "name": "領結/領巾",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=235",
+                    "cid": 235
+                },
+                {
+                    "name": "袖扣",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=213",
+                    "cid": 213
+                },
+                {
+                    "name": "手帕/方巾",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=239",
+                    "cid": 239
+                },
+                {
+                    "name": "口罩/口罩收納套",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=238",
+                    "cid": 238
+                },
+                {
+                    "name": "眼罩",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=226",
+                    "cid": 226
+                },
+                {
+                    "name": "鑰匙圈/鑰匙包",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=217",
+                    "cid": 217
+                },
+                {
+                    "name": "吊飾",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=241",
+                    "cid": 241
+                },
+                {
+                    "name": "證件套/卡套",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=220",
+                    "cid": 220
+                },
+                {
+                    "name": "掛繩/吊繩",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=237",
+                    "cid": 237
+                },
+                {
+                    "name": "名片夾/名片盒",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=219",
+                    "cid": 219
+                },
+                {
+                    "name": "護照夾/護照套",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=218",
+                    "cid": 218
+                },
+                {
+                    "name": "行李吊牌",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=242",
+                    "cid": 242
+                },
+                {
+                    "name": "紋身貼紙",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=224",
+                    "cid": 224
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=2&amp;subcategory=299",
+                    "cid": 299
+                }
+            ]
+        },
+        {
+            "name": "文具卡片",
+            "url": "https://www.pinkoi.com/browse?category=3",
+            "cid": 3,
+            "sub-cats": [
+                {
+                    "name": "卡片/明信片",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=304",
+                    "cid": "304"
+                },
+                {
+                    "name": "紙膠帶",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=310",
+                    "cid": "310"
+                },
+                {
+                    "name": "貼紙",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=305",
+                    "cid": "305"
+                },
+                {
+                    "name": "便條紙/便利貼",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=321",
+                    "cid": "321"
+                },
+                {
+                    "name": "信封/信紙",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=325",
+                    "cid": "325"
+                },
+                {
+                    "name": "紅包袋/春聯",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=322",
+                    "cid": "322"
+                },
+                {
+                    "name": "禮物盒/包裝盒",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=326",
+                    "cid": "326"
+                },
+                {
+                    "name": "筆記本/手帳",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=301",
+                    "cid": "301"
+                },
+                {
+                    "name": "年曆/桌曆",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=320",
+                    "cid": "320"
+                },
+                {
+                    "name": "原子筆/中性筆",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=317",
+                    "cid": "317"
+                },
+                {
+                    "name": "鉛筆/自動鉛筆",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=331",
+                    "cid": "331"
+                },
+                {
+                    "name": "鋼珠筆",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=332",
+                    "cid": "332"
+                },
+                {
+                    "name": "鋼筆",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=333",
+                    "cid": "333"
+                },
+                {
+                    "name": "沾水筆",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=334",
+                    "cid": "334"
+                },
+                {
+                    "name": "其他書寫用具",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=335",
+                    "cid": "335"
+                },
+                {
+                    "name": "墨水/鋼筆墨水",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=336",
+                    "cid": "336"
+                },
+                {
+                    "name": "鉛筆盒/筆袋",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=303",
+                    "cid": "303"
+                },
+                {
+                    "name": "筆筒/筆座",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=306",
+                    "cid": "306"
+                },
+                {
+                    "name": "文件夾/資料夾",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=309",
+                    "cid": "309"
+                },
+                {
+                    "name": "印章/印台",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=312",
+                    "cid": "312"
+                },
+                {
+                    "name": "釘書機",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=316",
+                    "cid": "316"
+                },
+                {
+                    "name": "剪刀/拆信刀",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=338",
+                    "cid": "338"
+                },
+                {
+                    "name": "刊物/書籍",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=313",
+                    "cid": "313"
+                },
+                {
+                    "name": "書衣/書套",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=327",
+                    "cid": "327"
+                },
+                {
+                    "name": "書籤",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=323",
+                    "cid": "323"
+                },
+                {
+                    "name": "喜帖",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=330",
+                    "cid": "330"
+                },
+                {
+                    "name": "結婚書約",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=329",
+                    "cid": "329"
+                },
+                {
+                    "name": "相簿/相本",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=308",
+                    "cid": "308"
+                },
+                {
+                    "name": "攝影集",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=307",
+                    "cid": "307"
+                },
+                {
+                    "name": "音樂專輯",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=328",
+                    "cid": "328"
+                },
+                {
+                    "name": "名片架/名片座",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=324",
+                    "cid": "324"
+                },
+                {
+                    "name": "磁鐵",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=318",
+                    "cid": "318"
+                },
+                {
+                    "name": "削鉛筆機",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=337",
+                    "cid": "337"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=3&amp;subcategory=399",
+                    "cid": "399"
+                }
+            ]
+        },
+        {
+            "name": "包包提袋",
+            "url": "https://www.pinkoi.com/browse?category=1",
+            "cid": 1,
+            "sub-cats": [
+                {
+                    "name": "側背包/斜背包",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=104",
+                    "cid": "104"
+                },
+                {
+                    "name": "手提包/手提袋/托特包",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=105",
+                    "cid": "105"
+                },
+                {
+                    "name": "後背包/書包",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=111",
+                    "cid": "111"
+                },
+                {
+                    "name": "水桶包/束口袋",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=114",
+                    "cid": "114"
+                },
+                {
+                    "name": "手拿包",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=118",
+                    "cid": "118"
+                },
+                {
+                    "name": "零錢包/小錢包",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=106",
+                    "cid": "106"
+                },
+                {
+                    "name": "長短皮夾/錢包",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=103",
+                    "cid": "103"
+                },
+                {
+                    "name": "電腦包/筆電包",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=109",
+                    "cid": "109"
+                },
+                {
+                    "name": "公事包/醫生包",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=112",
+                    "cid": "112"
+                },
+                {
+                    "name": "化妝包/收納袋",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=113",
+                    "cid": "113"
+                },
+                {
+                    "name": "行李箱/旅行袋",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=117",
+                    "cid": "117"
+                },
+                {
+                    "name": "相機包/相機袋",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=110",
+                    "cid": "110"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=1&amp;subcategory=199",
+                    "cid": "199"
+                }
+            ]
+        },
+        {
+            "name": "鞋履襪品",
+            "url": "https://www.pinkoi.com/browse?category=12",
+            "cid": 12,
+            "sub-cats": [
+                {
+                    "name": "襪子",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1201",
+                    "cid": "1201"
+                },
+                {
+                    "name": "絲襪/褲襪",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1202",
+                    "cid": "1202"
+                },
+                {
+                    "name": "紳士襪",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1221",
+                    "cid": "1221"
+                },
+                {
+                    "name": "女休閒鞋/帆布鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1204",
+                    "cid": "1204"
+                },
+                {
+                    "name": "女運動鞋/球鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1209",
+                    "cid": "1209"
+                },
+                {
+                    "name": "女皮鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1205",
+                    "cid": "1205"
+                },
+                {
+                    "name": "女牛津鞋/樂福鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1206",
+                    "cid": "1206"
+                },
+                {
+                    "name": "高跟鞋/跟鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1210",
+                    "cid": "1210"
+                },
+                {
+                    "name": "娃娃鞋/平底鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1211",
+                    "cid": "1211"
+                },
+                {
+                    "name": "女長靴子/高筒靴",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1207",
+                    "cid": "1207"
+                },
+                {
+                    "name": "女短靴子/中筒靴",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1208",
+                    "cid": "1208"
+                },
+                {
+                    "name": "男休閒鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1213",
+                    "cid": "1213"
+                },
+                {
+                    "name": "男運動鞋/球鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1217",
+                    "cid": "1217"
+                },
+                {
+                    "name": "男皮鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1214",
+                    "cid": "1214"
+                },
+                {
+                    "name": "男牛津鞋/樂福鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1215",
+                    "cid": "1215"
+                },
+                {
+                    "name": "男靴/短靴",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1216",
+                    "cid": "1216"
+                },
+                {
+                    "name": "雨鞋/防水鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1212",
+                    "cid": "1212"
+                },
+                {
+                    "name": "男女涼鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1203",
+                    "cid": "1203"
+                },
+                {
+                    "name": "拖鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1218",
+                    "cid": "1218"
+                },
+                {
+                    "name": "室內拖鞋",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1219",
+                    "cid": "1219"
+                },
+                {
+                    "name": "鞋墊/周邊",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1220",
+                    "cid": "1220"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=12&amp;subcategory=1299",
+                    "cid": "1299"
+                }
+            ]
+        },
+        {
+            "name": "衣著良品",
+            "url": "https://www.pinkoi.com/browse?category=0",
+            "cid": 0,
+            "sub-cats": [
+                {
+                    "name": "女裝上衣",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=11",
+                    "cid": "11"
+                },
+                {
+                    "name": "女素色/印花 T 恤",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=1",
+                    "cid": "1"
+                },
+                {
+                    "name": "女細肩帶/背心",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=2",
+                    "cid": "2"
+                },
+                {
+                    "name": "女襯衫",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=9",
+                    "cid": "9"
+                },
+                {
+                    "name": "女裝毛衣/針織衫",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=8",
+                    "cid": "8"
+                },
+                {
+                    "name": "裙子/長裙",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=3",
+                    "cid": "3"
+                },
+                {
+                    "name": "女長褲/寬褲/九分褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=31",
+                    "cid": "31"
+                },
+                {
+                    "name": "女短褲/褲裙/五分褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=32",
+                    "cid": "32"
+                },
+                {
+                    "name": "內搭褲/緊身褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=25",
+                    "cid": "25"
+                },
+                {
+                    "name": "洋裝/連身裙",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=6",
+                    "cid": "6"
+                },
+                {
+                    "name": "晚禮服/小禮服",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=23",
+                    "cid": "23"
+                },
+                {
+                    "name": "旗袍/改良式旗袍",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=24",
+                    "cid": "24"
+                },
+                {
+                    "name": "吊帶褲/連身褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=13",
+                    "cid": "13"
+                },
+                {
+                    "name": "女西裝外套",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=29",
+                    "cid": "29"
+                },
+                {
+                    "name": "女外套/罩衫/大衣",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=30",
+                    "cid": "30"
+                },
+                {
+                    "name": "男 T 恤/上衣",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=16",
+                    "cid": "16"
+                },
+                {
+                    "name": "男背心/馬甲背心",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=17",
+                    "cid": "17"
+                },
+                {
+                    "name": "男西裝/休閒襯衫",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=18",
+                    "cid": "18"
+                },
+                {
+                    "name": "男毛衣/針織衫",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=21",
+                    "cid": "21"
+                },
+                {
+                    "name": "男夾克/外套/大衣",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=20",
+                    "cid": "20"
+                },
+                {
+                    "name": "男西裝外套",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=34",
+                    "cid": "34"
+                },
+                {
+                    "name": "男長褲/休閒褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=19",
+                    "cid": "19"
+                },
+                {
+                    "name": "短褲/工裝短褲/五分褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=33",
+                    "cid": "33"
+                },
+                {
+                    "name": "帽T/衛衣",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=15",
+                    "cid": "15"
+                },
+                {
+                    "name": "中性長褲/短褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=27",
+                    "cid": "27"
+                },
+                {
+                    "name": "女內衣/內褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=22",
+                    "cid": "22"
+                },
+                {
+                    "name": "男內衣/內褲",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=26",
+                    "cid": "26"
+                },
+                {
+                    "name": "家居服/睡衣",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=28",
+                    "cid": "28"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=0&amp;subcategory=99",
+                    "cid": "99"
+                }
+            ]
+        },
+        {
+            "name": "居家生活",
+            "url": "https://www.pinkoi.com/browse?category=5",
+            "cid": 5,
+            "sub-cats": [
+                {
+                    "name": "擺飾/家飾品",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=506",
+                    "cid": "506"
+                },
+                {
+                    "name": "香氛蠟燭/燭台",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=516",
+                    "cid": "516"
+                },
+                {
+                    "name": "香氛/精油/擴香",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=503",
+                    "cid": "503"
+                },
+                {
+                    "name": "植栽/盆栽",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=508",
+                    "cid": "508"
+                },
+                {
+                    "name": "乾燥花/永生花",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=549",
+                    "cid": "549"
+                },
+                {
+                    "name": "花瓶/花器",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=509",
+                    "cid": "509"
+                },
+                {
+                    "name": "海報/掛畫/掛布",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=517",
+                    "cid": "517"
+                },
+                {
+                    "name": "似顏繪/客製畫像",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=538",
+                    "cid": "538"
+                },
+                {
+                    "name": "壁貼/牆壁裝飾",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=507",
+                    "cid": "507"
+                },
+                {
+                    "name": "相框/畫框",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=524",
+                    "cid": "524"
+                },
+                {
+                    "name": "玩偶/公仔",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=510",
+                    "cid": "510"
+                },
+                {
+                    "name": "門簾/門牌",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=540",
+                    "cid": "540"
+                },
+                {
+                    "name": "水壺/水瓶",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=555",
+                    "cid": "555"
+                },
+                {
+                    "name": "保溫瓶/保溫杯",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=547",
+                    "cid": "547"
+                },
+                {
+                    "name": "飲料提袋/杯袋/杯套",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=514",
+                    "cid": "514"
+                },
+                {
+                    "name": "收納盒/收納用品",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=532",
+                    "cid": "532"
+                },
+                {
+                    "name": "置物架/置物籃",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=550",
+                    "cid": "550"
+                },
+                {
+                    "name": "面紙盒",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=554",
+                    "cid": "554"
+                },
+                {
+                    "name": "眼鏡盒/眼鏡布",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=553",
+                    "cid": "553"
+                },
+                {
+                    "name": "存錢筒",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=536",
+                    "cid": "536"
+                },
+                {
+                    "name": "扇子",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=559",
+                    "cid": "559"
+                },
+                {
+                    "name": "掛衣架/掛勾",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=551",
+                    "cid": "551"
+                },
+                {
+                    "name": "垃圾桶",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=552",
+                    "cid": "552"
+                },
+                {
+                    "name": "衛浴用品/浴室收納",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=557",
+                    "cid": "557"
+                },
+                {
+                    "name": "床包/寢具",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=527",
+                    "cid": "527"
+                },
+                {
+                    "name": "枕頭/抱枕",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=525",
+                    "cid": "525"
+                },
+                {
+                    "name": "棉被/毛毯",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=526",
+                    "cid": "526"
+                },
+                {
+                    "name": "地墊/地毯",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=541",
+                    "cid": "541"
+                },
+                {
+                    "name": "毛巾/浴巾",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=563",
+                    "cid": "563"
+                },
+                {
+                    "name": "餐桌/書桌",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=542",
+                    "cid": "542"
+                },
+                {
+                    "name": "椅子/沙發",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=543",
+                    "cid": "543"
+                },
+                {
+                    "name": "書架/書擋",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=544",
+                    "cid": "544"
+                },
+                {
+                    "name": "電視櫃",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=545",
+                    "cid": "545"
+                },
+                {
+                    "name": "衣櫃/鞋櫃",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=546",
+                    "cid": "546"
+                },
+                {
+                    "name": "其他家具",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=521",
+                    "cid": "521"
+                },
+                {
+                    "name": "燈具/燈飾",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=501",
+                    "cid": "501"
+                },
+                {
+                    "name": "時鐘/鬧鐘",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=512",
+                    "cid": "512"
+                },
+                {
+                    "name": "電風扇",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=548",
+                    "cid": "548"
+                },
+                {
+                    "name": "吸塵器",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=558",
+                    "cid": "558"
+                },
+                {
+                    "name": "其他小家電",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=561",
+                    "cid": "561"
+                },
+                {
+                    "name": "洗衣精/衣物清潔",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=562",
+                    "cid": "562"
+                },
+                {
+                    "name": "情趣用品",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=564",
+                    "cid": "564"
+                },
+                {
+                    "name": "蚊香/防蚊用品",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=560",
+                    "cid": "560"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=5&amp;subcategory=599",
+                    "cid": "599"
+                }
+            ]
+        },
+        {
+            "name": "廚房餐桌",
+            "url": "https://www.pinkoi.com/browse?category=13",
+            "cid": 13,
+            "sub-cats": [
+                {
+                    "name": "杯子",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1301",
+                    "cid": "1301"
+                },
+                {
+                    "name": "咖啡杯/馬克杯",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1309",
+                    "cid": "1309"
+                },
+                {
+                    "name": "咖啡壺/周邊",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1302",
+                    "cid": "1302"
+                },
+                {
+                    "name": "茶具/茶杯",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1310",
+                    "cid": "1310"
+                },
+                {
+                    "name": "酒杯/酒器",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1303",
+                    "cid": "1303"
+                },
+                {
+                    "name": "杯墊",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1311",
+                    "cid": "1311"
+                },
+                {
+                    "name": "碗",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1313",
+                    "cid": "1313"
+                },
+                {
+                    "name": "碟子/醬料碟",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1314",
+                    "cid": "1314"
+                },
+                {
+                    "name": "盤子/餐盤/盤架",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1305",
+                    "cid": "1305"
+                },
+                {
+                    "name": "餐桌布/桌巾/餐墊",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1312",
+                    "cid": "1312"
+                },
+                {
+                    "name": "筷子/筷架",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1315",
+                    "cid": "1315"
+                },
+                {
+                    "name": "刀叉/湯匙組合",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1316",
+                    "cid": "1316"
+                },
+                {
+                    "name": "便當盒/餐盒",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1307",
+                    "cid": "1307"
+                },
+                {
+                    "name": "環保吸管",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1320",
+                    "cid": "1320"
+                },
+                {
+                    "name": "托盤/砧板",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1306",
+                    "cid": "1306"
+                },
+                {
+                    "name": "菜刀/刀架",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1308",
+                    "cid": "1308"
+                },
+                {
+                    "name": "調味罐/醬料罐",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1317",
+                    "cid": "1317"
+                },
+                {
+                    "name": "開瓶器/開罐器",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1304",
+                    "cid": "1304"
+                },
+                {
+                    "name": "鍋具/烤盤",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1322",
+                    "cid": "1322"
+                },
+                {
+                    "name": "湯勺/鍋鏟",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1323",
+                    "cid": "1323"
+                },
+                {
+                    "name": "廚房用具",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1318",
+                    "cid": "1318"
+                },
+                {
+                    "name": "廚房家電",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1321",
+                    "cid": "1321"
+                },
+                {
+                    "name": "圍裙",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1319",
+                    "cid": "1319"
+                },
+                {
+                    "name": "碗盤清潔/洗碗精",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1324",
+                    "cid": "1324"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=13&amp;subcategory=1399",
+                    "cid": "1399"
+                }
+            ]
+        },
+        {
+            "name": "品味美食",
+            "url": "https://www.pinkoi.com/browse?category=10",
+            "cid": 10,
+            "sub-cats": [
+                {
+                    "name": "茶葉/漢方茶/水果茶",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1002",
+                    "cid": 1002
+                },
+                {
+                    "name": "咖啡/咖啡豆",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1018",
+                    "cid": 1018
+                },
+                {
+                    "name": "鮮奶/植物奶",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1027",
+                    "cid": 1027
+                },
+                {
+                    "name": "優格/優酪乳",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1026",
+                    "cid": 1026
+                },
+                {
+                    "name": "果汁/蔬果汁",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1028",
+                    "cid": 1028
+                },
+                {
+                    "name": "醋/水果醋",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1029",
+                    "cid": 1029
+                },
+                {
+                    "name": "酒類",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1034",
+                    "cid": 1034
+                },
+                {
+                    "name": "蛋糕/甜點",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1001",
+                    "cid": 1001
+                },
+                {
+                    "name": "鹹派/甜派",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1007",
+                    "cid": 1007
+                },
+                {
+                    "name": "手工餅乾",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1010",
+                    "cid": 1010
+                },
+                {
+                    "name": "麵包/吐司",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1016",
+                    "cid": 1016
+                },
+                {
+                    "name": "奶酪/布丁/果凍",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1025",
+                    "cid": 1025
+                },
+                {
+                    "name": "冰淇淋/冰棒",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1009",
+                    "cid": 1009
+                },
+                {
+                    "name": "零食/點心",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1005",
+                    "cid": 1005
+                },
+                {
+                    "name": "巧克力",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1022",
+                    "cid": 1022
+                },
+                {
+                    "name": "果醬/抹醬",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1003",
+                    "cid": 1003
+                },
+                {
+                    "name": "蜂蜜/黑糖",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1004",
+                    "cid": 1004
+                },
+                {
+                    "name": "水果乾",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1013",
+                    "cid": 1013
+                },
+                {
+                    "name": "堅果",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1030",
+                    "cid": 1030
+                },
+                {
+                    "name": "肉乾/肉鬆",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1024",
+                    "cid": 1024
+                },
+                {
+                    "name": "燕麥/麥片/穀物",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1032",
+                    "cid": 1032
+                },
+                {
+                    "name": "養生/保健食品/飲品",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1031",
+                    "cid": 1031
+                },
+                {
+                    "name": "水餃/滷味/熟食",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1033",
+                    "cid": 1033
+                },
+                {
+                    "name": "拌麵/麵條/米粉",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1019",
+                    "cid": 1019
+                },
+                {
+                    "name": "醬料/調味料",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1020",
+                    "cid": 1020
+                },
+                {
+                    "name": "料理包/調理包",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1021",
+                    "cid": 1021
+                },
+                {
+                    "name": "米/五穀雜糧",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1023",
+                    "cid": 1023
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=10&amp;subcategory=1099",
+                    "cid": 1099
+                }
+            ]
+        },
+        {
+            "name": "美妝保養",
+            "url": "https://www.pinkoi.com/browse?category=14",
+            "cid": 14,
+            "sub-cats": [
+                {
+                    "name": "臉部清潔/卸妝",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1404",
+                    "cid": "1404"
+                },
+                {
+                    "name": "化妝水/保濕噴霧",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1417",
+                    "cid": "1417"
+                },
+                {
+                    "name": "精華液/精華油",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1418",
+                    "cid": "1418"
+                },
+                {
+                    "name": "臉部乳液",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1419",
+                    "cid": "1419"
+                },
+                {
+                    "name": "乳霜",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1420",
+                    "cid": "1420"
+                },
+                {
+                    "name": "面膜/凍膜/泥膜",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1416",
+                    "cid": "1416"
+                },
+                {
+                    "name": "男性保養/清潔/修容工具",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1431",
+                    "cid": "1431"
+                },
+                {
+                    "name": "臉部按摩/清潔工具",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1432",
+                    "cid": "1432"
+                },
+                {
+                    "name": "洗髮精/餅/皂",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1421",
+                    "cid": "1421"
+                },
+                {
+                    "name": "潤髮乳/護髮用品",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1422",
+                    "cid": "1422"
+                },
+                {
+                    "name": "沐浴乳/沐浴用品",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1423",
+                    "cid": "1423"
+                },
+                {
+                    "name": "身體乳液/按摩油",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1424",
+                    "cid": "1424"
+                },
+                {
+                    "name": "洗手乳/洗手用品",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1425",
+                    "cid": "1425"
+                },
+                {
+                    "name": "護手霜/手足保養",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1407",
+                    "cid": "1407"
+                },
+                {
+                    "name": "護唇膏/唇部保養",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1409",
+                    "cid": "1409"
+                },
+                {
+                    "name": "肥皂/手工皂",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1402",
+                    "cid": "1402"
+                },
+                {
+                    "name": "妝前乳/粉底液",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1426",
+                    "cid": "1426"
+                },
+                {
+                    "name": "粉餅/蜜粉",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1427",
+                    "cid": "1427"
+                },
+                {
+                    "name": "唇膏/腮紅/唇頰彩",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1428",
+                    "cid": "1428"
+                },
+                {
+                    "name": "眼影/眉筆/眼眉彩",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1429",
+                    "cid": "1429"
+                },
+                {
+                    "name": "臉部/身體防曬",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1430",
+                    "cid": "1430"
+                },
+                {
+                    "name": "指甲油/指甲貼",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1408",
+                    "cid": "1408"
+                },
+                {
+                    "name": "香水/香膏",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1410",
+                    "cid": "1410"
+                },
+                {
+                    "name": "彩妝刷具/鏡子/梳子",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1401",
+                    "cid": "1401"
+                },
+                {
+                    "name": "布衛生棉/生理用品",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1413",
+                    "cid": "1413"
+                },
+                {
+                    "name": "私密處保養/清潔",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1433",
+                    "cid": "1433"
+                },
+                {
+                    "name": "牙刷/口腔清潔",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1412",
+                    "cid": "1412"
+                },
+                {
+                    "name": "保養/沐浴旅行組",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1415",
+                    "cid": "1415"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=14&amp;subcategory=1499",
+                    "cid": "1499"
+                }
+            ]
+        },
+        {
+            "name": "運動休閒",
+            "url": "https://www.pinkoi.com/browse?category=9",
+            "cid": 9,
+            "sub-cats": [
+                {
+                    "name": "女運動上衣/背心",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=906",
+                    "cid": "906"
+                },
+                {
+                    "name": "女運動褲/機能褲",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=907",
+                    "cid": "907"
+                },
+                {
+                    "name": "瑜珈服/瑜珈褲",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=908",
+                    "cid": "908"
+                },
+                {
+                    "name": "運動內衣",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=909",
+                    "cid": "909"
+                },
+                {
+                    "name": "女泳衣/比基尼",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=910",
+                    "cid": "910"
+                },
+                {
+                    "name": "男運動上衣",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=911",
+                    "cid": "911"
+                },
+                {
+                    "name": "男運動褲/機能褲",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=912",
+                    "cid": "912"
+                },
+                {
+                    "name": "男泳衣/泳褲",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=913",
+                    "cid": "913"
+                },
+                {
+                    "name": "瑜珈墊",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=914",
+                    "cid": "914"
+                },
+                {
+                    "name": "運動用品/健身器材",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=915",
+                    "cid": "915"
+                },
+                {
+                    "name": "運動配件",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=916",
+                    "cid": "916"
+                },
+                {
+                    "name": "腳踏車/周邊",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=901",
+                    "cid": "901"
+                },
+                {
+                    "name": "安全帽",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=917",
+                    "cid": "917"
+                },
+                {
+                    "name": "野餐墊/露營用品",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=905",
+                    "cid": "905"
+                },
+                {
+                    "name": "雨傘/雨衣",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=902",
+                    "cid": "902"
+                },
+                {
+                    "name": "地圖",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=903",
+                    "cid": "903"
+                },
+                {
+                    "name": "頸枕/午睡枕",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=919",
+                    "cid": "919"
+                },
+                {
+                    "name": "桌遊/玩具",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=920",
+                    "cid": "920"
+                },
+                {
+                    "name": "拼圖",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=921",
+                    "cid": "921"
+                },
+                {
+                    "name": "吉他/樂器",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=922",
+                    "cid": "922"
+                },
+                {
+                    "name": "吉他配件",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=923",
+                    "cid": "923"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=9&amp;subcategory=999",
+                    "cid": "999"
+                }
+            ]
+        },
+        {
+            "name": "媽咪寶寶",
+            "url": "https://www.pinkoi.com/browse?category=4",
+            "cid": 4,
+            "sub-cats": [
+                {
+                    "name": "彌月禮盒",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=412",
+                    "cid": "412"
+                },
+                {
+                    "name": "嬰兒帽子/髮帶",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=415",
+                    "cid": "415"
+                },
+                {
+                    "name": "嬰兒手鍊/飾品",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=416",
+                    "cid": "416"
+                },
+                {
+                    "name": "嬰兒襪子",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=417",
+                    "cid": "417"
+                },
+                {
+                    "name": "包屁衣/連身衣",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=419",
+                    "cid": "419"
+                },
+                {
+                    "name": "嬰兒鞋/學步鞋",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=418",
+                    "cid": "418"
+                },
+                {
+                    "name": "孕婦裝",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=434",
+                    "cid": "434"
+                },
+                {
+                    "name": "哺乳巾",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=435",
+                    "cid": "435"
+                },
+                {
+                    "name": "親子裝",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=433",
+                    "cid": "433"
+                },
+                {
+                    "name": "媽媽包",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=406",
+                    "cid": "406"
+                },
+                {
+                    "name": "奶瓶/奶嘴",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=414",
+                    "cid": "414"
+                },
+                {
+                    "name": "圍兜/口水巾",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=405",
+                    "cid": "405"
+                },
+                {
+                    "name": "嬰兒床/床圍/寢具",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=429",
+                    "cid": "429"
+                },
+                {
+                    "name": "嬰兒地墊/遊戲墊",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=431",
+                    "cid": "431"
+                },
+                {
+                    "name": "嬰兒車/嬰推兒車",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=430",
+                    "cid": "430"
+                },
+                {
+                    "name": "兒童繪本/故事書",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=428",
+                    "cid": "428"
+                },
+                {
+                    "name": "寶寶/兒童餐具/餐盤",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=432",
+                    "cid": "432"
+                },
+                {
+                    "name": "兒童家具",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=403",
+                    "cid": "403"
+                },
+                {
+                    "name": "寶寶/兒童玩具/玩偶",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=404",
+                    "cid": "404"
+                },
+                {
+                    "name": "平安符袋",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=436",
+                    "cid": "436"
+                },
+                {
+                    "name": "男/女童裝",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=420",
+                    "cid": "420"
+                },
+                {
+                    "name": "女童洋裝/裙子",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=421",
+                    "cid": "421"
+                },
+                {
+                    "name": "男/女童長褲/短褲",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=422",
+                    "cid": "422"
+                },
+                {
+                    "name": "男/女童外套",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=423",
+                    "cid": "423"
+                },
+                {
+                    "name": "男/女童禮服",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=424",
+                    "cid": "424"
+                },
+                {
+                    "name": "男/女童鞋",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=409",
+                    "cid": "409"
+                },
+                {
+                    "name": "防走失/兒童背包",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=425",
+                    "cid": "425"
+                },
+                {
+                    "name": "兒童雨衣/雨傘",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=426",
+                    "cid": "426"
+                },
+                {
+                    "name": "嬰兒/兒童泳衣",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=427",
+                    "cid": "427"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=4&amp;subcategory=499",
+                    "cid": "499"
+                }
+            ]
+        },
+        {
+            "name": "創意科技",
+            "url": "https://www.pinkoi.com/browse?category=11",
+            "cid": 11,
+            "sub-cats": [
+                {
+                    "name": "手機殼/手機套",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1114",
+                    "cid": "1114"
+                },
+                {
+                    "name": "手機架/防塵塞",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1115",
+                    "cid": "1115"
+                },
+                {
+                    "name": "平板/電腦保護殼",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1108",
+                    "cid": "1108"
+                },
+                {
+                    "name": "耳機/藍牙耳機",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1107",
+                    "cid": "1107"
+                },
+                {
+                    "name": "行動電源/充電線",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1113",
+                    "cid": "1113"
+                },
+                {
+                    "name": "捲線器/電線收納",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1106",
+                    "cid": "1106"
+                },
+                {
+                    "name": "手機配件",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1120",
+                    "cid": "1120"
+                },
+                {
+                    "name": "耳機保護套/殼",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1121",
+                    "cid": "1121"
+                },
+                {
+                    "name": "無線充電盤/板/座",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1122",
+                    "cid": "1122"
+                },
+                {
+                    "name": "電腦配件",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1118",
+                    "cid": "1118"
+                },
+                {
+                    "name": "滑鼠墊",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1117",
+                    "cid": "1117"
+                },
+                {
+                    "name": "藍牙喇叭/音響",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1111",
+                    "cid": "1111"
+                },
+                {
+                    "name": "USB 隨身碟",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1105",
+                    "cid": "1105"
+                },
+                {
+                    "name": "相機/拍立得",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1110",
+                    "cid": "1110"
+                },
+                {
+                    "name": "相機背帶",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1116",
+                    "cid": "1116"
+                },
+                {
+                    "name": "科技小物",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1119",
+                    "cid": "1119"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=11&amp;subcategory=1199",
+                    "cid": "1199"
+                }
+            ]
+        },
+        {
+            "name": "寵物用品",
+            "url": "https://www.pinkoi.com/browse?category=6",
+            "cid": 6,
+            "sub-cats": [
+                {
+                    "name": "寵物衣服",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=607",
+                    "cid": "607"
+                },
+                {
+                    "name": "項圈/牽繩",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=604",
+                    "cid": "604"
+                },
+                {
+                    "name": "寵物背包/外出包",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=613",
+                    "cid": "613"
+                },
+                {
+                    "name": "寵物碗/碗架",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=608",
+                    "cid": "608"
+                },
+                {
+                    "name": "寵物床/外出籠",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=603",
+                    "cid": "603"
+                },
+                {
+                    "name": "貓砂/貓砂盆/墊",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=612",
+                    "cid": "612"
+                },
+                {
+                    "name": "貓跳台/貓抓板",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=611",
+                    "cid": "611"
+                },
+                {
+                    "name": "貓/狗玩具",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=602",
+                    "cid": "602"
+                },
+                {
+                    "name": "洗毛精/清潔/美容",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=606",
+                    "cid": "606"
+                },
+                {
+                    "name": "貓/狗罐頭/鮮食",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=605",
+                    "cid": "605"
+                },
+                {
+                    "name": "貓/狗零食/肉乾",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=610",
+                    "cid": "610"
+                },
+                {
+                    "name": "客製抱枕/飾品",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=609",
+                    "cid": "609"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=6&amp;subcategory=699",
+                    "cid": "699"
+                }
+            ]
+        },
+        {
+            "name": "DIY 材料",
+            "url": "https://www.pinkoi.com/browse?category=8",
+            "cid": 8,
+            "sub-cats": [
+                {
+                    "name": "金工/飾品",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=801",
+                    "cid": "801"
+                },
+                {
+                    "name": "皮件/皮革",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=807",
+                    "cid": "807"
+                },
+                {
+                    "name": "陶藝/玻璃",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=808",
+                    "cid": "808"
+                },
+                {
+                    "name": "植栽/花藝",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=809",
+                    "cid": "809"
+                },
+                {
+                    "name": "烘焙/料理",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=810",
+                    "cid": "810"
+                },
+                {
+                    "name": "蠟燭/香氛/手工皂",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=811",
+                    "cid": "811"
+                },
+                {
+                    "name": "插畫/繪畫/寫字",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=812",
+                    "cid": "812"
+                },
+                {
+                    "name": "木工/竹藝/紙雕",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=804",
+                    "cid": "804"
+                },
+                {
+                    "name": "編織/刺繡/羊毛氈/縫紉",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=805",
+                    "cid": "805"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=899",
+                    "cid": "899"
+                },
+                {
+                    "name": "包裝材料",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=806",
+                    "cid": "806"
+                },
+                {
+                    "name": "零件/散裝材料/工具",
+                    "url": "https://www.pinkoi.com/browse?category=8&amp;subcategory=813",
+                    "cid": "813"
+                }
+            ]
+        },
+        {
+            "name": "體驗活動",
+            "url": "https://www.pinkoi.com/browse?category=15",
+            "cid": 15,
+            "sub-cats": [
+                {
+                    "name": "金工/飾品",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1501",
+                    "cid": "1501"
+                },
+                {
+                    "name": "蠟燭/香氛/擴香",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1510",
+                    "cid": "1510"
+                },
+                {
+                    "name": "植栽/花藝",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1508",
+                    "cid": "1508"
+                },
+                {
+                    "name": "烘焙/料理/美食",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1509",
+                    "cid": "1509"
+                },
+                {
+                    "name": "插畫/繪畫/寫字",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1507",
+                    "cid": "1507"
+                },
+                {
+                    "name": "皮件/皮革",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1502",
+                    "cid": "1502"
+                },
+                {
+                    "name": "木工/竹藝",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1515",
+                    "cid": "1515"
+                },
+                {
+                    "name": "陶藝/玻璃",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1506",
+                    "cid": "1506"
+                },
+                {
+                    "name": "編織/羊毛氈/縫紉",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1511",
+                    "cid": "1511"
+                },
+                {
+                    "name": "深度旅遊",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1512",
+                    "cid": "1512"
+                },
+                {
+                    "name": "戶外/室內活動",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1513",
+                    "cid": "1513"
+                },
+                {
+                    "name": "攝影/心靈/講座",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1514",
+                    "cid": "1514"
+                },
+                {
+                    "name": "其他",
+                    "url": "https://www.pinkoi.com/browse?category=15&amp;subcategory=1599",
+                    "cid": "1599"
+                }
+            ]
+        },
+        {
+            "name": "數位創作",
+            "url": "https://www.pinkoi.com/browse?category=17",
+            "cid": 17,
+            "sub-cats": [
+                {
+                    "name": "電子似顏繪/繪畫/插畫",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1701",
+                    "cid": "1701"
+                },
+                {
+                    "name": "電子手帳及素材",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1702",
+                    "cid": "1702"
+                },
+                {
+                    "name": "電子喜帖/賀卡/邀請函",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1703",
+                    "cid": "1703"
+                },
+                {
+                    "name": "電腦手機桌布/貼圖/App 圖示",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1704",
+                    "cid": "1704"
+                },
+                {
+                    "name": "圖文模板設計",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1705",
+                    "cid": "1705"
+                },
+                {
+                    "name": "Logo 設計/圖案設計",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1706",
+                    "cid": "1706"
+                },
+                {
+                    "name": "字體設計",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1707",
+                    "cid": "1707"
+                },
+                {
+                    "name": "其他數位設計",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1708",
+                    "cid": "1708"
+                },
+                {
+                    "name": "手工藝教學/工具書",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1709",
+                    "cid": "1709"
+                },
+                {
+                    "name": "線上體驗/教學影片",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1710",
+                    "cid": "1710"
+                },
+                {
+                    "name": "電子書/雜誌",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1711",
+                    "cid": "1711"
+                },
+                {
+                    "name": "數位影音創作",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1712",
+                    "cid": "1712"
+                },
+                {
+                    "name": "其他數位商品",
+                    "url": "https://www.pinkoi.com/browse?category=17&amp;subcategory=1799",
+                    "cid": "1799"
+                }
+            ]
+        }
+    ]
+}

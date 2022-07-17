@@ -1,0 +1,49 @@
+.scrape-head{
+    font-size: large;
+    background-color: #FFFFFF;
+}
+
+button.button.button-primary.scrape-cats-products {
+    margin-left: 20px;
+}
+
+.product-container{
+    margin-top: 30px;
+    padding-right: 10px
+}
+
+.widefat tfoot tr td, .widefat tfoot tr th, .widefat thead tr td, .widefat thead tr th{
+    font-weight: 700;
+}
+
+.pagination-main {
+    float: right;
+    padding: 10px 0;
+}
+
+.pagination-main select.pagination {
+    width: 70px;
+}
+
+.publish-product {
+    float: left;
+    padding: 10px 0;
+    display: none;
+}
+
+.automatic-product-log {
+    border-top: 2px solid red;
+    height: 500px;
+    overflow-y: auto;
+    background: #3c3535;
+    color: #FFFFFF;
+    padding: 5px 30px;
+}
+
+.automatic-product-log h2 {
+    color: #FFFFFF;
+}
+
+.all-shortcodes .shortcode {
+    margin: 10px 0;
+}
