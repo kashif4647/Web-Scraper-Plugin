@@ -17,4 +17,17 @@ Plugin also maintains the logs and also displays in the plugin settings page.
 ### Dependencies
 This plugin depends on two external JavaScript libraries:
 **PhantomJS**
+    Linux:
+    It is manually configured but if you have VPS server or NPM installed on your server then you can install it using NPM.
+    Window:
+    Please download PhantomJS lib for windows and add environment variables.
 **CasperJS**
+    Linux:
+    It is manually configured but if you have VPS server or NPM installed on your server then you can install it using NPM.
+    Window:
+    Please download PhantomJS lib for windows and add environment variables.
+**ACF Plugin**
+    You need to install ACF Plugin and import the JSON file (you can get this from logging folder) `acf-products.json` using ACF tools option.
+
+##Installation
+    Import plugin file, install and activate as you install other plugins. After installtion, you will get Product Scraper tab in the left menu bar.

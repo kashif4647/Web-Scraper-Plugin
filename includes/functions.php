@@ -1,6 +1,4 @@
 <?php
-// https://wordpress.stackexchange.com/questions/102349/faster-way-to-wp-insert-post-add-post-meta-in-bulk
-
 add_action( "wp_ajax_scrapeCategoryProduct", "scrapeCategoryProduct" );
 add_action( "wp_ajax_nopriv_scrapeCategoryProduct", "scrapeCategoryProduct" );
 function scrapeCategoryProduct(){
@@ -37,9 +35,6 @@ function scrapeCategoryProduct(){
                     writeProductJSONFile($product);
                     $allProducts[$key] = $product;
 
-                    // if($key==5){
-                    //     wp_send_json_success(array( 'products' => $allProducts, 'pagination' => $pagination ));
-                    // }
                     if(count($allProductLinks) -1 == (int)$key){
                         parse_str(parse_url($_POST['cat'])['query'], $params);
                         $page_no = $params['page'];

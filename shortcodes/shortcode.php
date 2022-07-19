@@ -10,6 +10,17 @@ function shortcodeProductTitle(){
 }
 add_shortcode('shortcodeProductTitle', 'shortcodeProductTitle');
 
+function shortcodeProductLink(){
+    ob_start();
+
+    global $post;
+
+    echo do_shortcode('[acf field="product_link" post_id="'.$post->ID.'"]');
+
+    return ob_get_clean();
+}
+add_shortcode('shortcodeProductLink', 'shortcodeProductLink');
+
 function shortcodeProductReviews(){
     ob_start();
 
