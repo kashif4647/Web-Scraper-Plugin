@@ -73,25 +73,35 @@ function cron_simple_example()
 	require_once SC_PLUGIN_DIR.'cronJobs/automatic.php';
 }
 
-// add_filter( 'the_title', 'my_shortcode_title' );
-// function my_shortcode_title( $title ){
-//     $splited = explode("]", $title);
-//     if(!empty($splited) && !is_admin()){
-//         $s_title = $splited[0].']';
-        
-//         if(isset($splited[1])){
-//             $text = $splited[1];
-//         }else{
-//             $text = '';
-//         }
-        
-//         $m_title = do_shortcode( $s_title );
-//         $title = $m_title.' '.$text;
-//     }else{
-//         $title = $title;
-//     }
-    
-//     return $title;
-// }
+add_action( 'current_screen', 'wpdocs_this_screen' );
+ 
+/**
+ * Run code on the admin widgets page
+ */
+function wpdocs_this_screen() {
+    $currentScreen = get_current_screen();
+    if( $currentScreen->id != "product-scraper_page_scraper-settings" ) {
+        add_filter( 'the_title', 'do_shortcode' );
+    }
+}
 
-add_filter( 'the_title', 'do_shortcode' );
+if(!is_admin()){
+    add_filter( 'the_title', 'do_shortcode' );
+}
+
+register_activation_hook( SC_PLUGIN_DIR_URL, 'clearProductLogsFiles' );
+register_deactivation_hook( SC_PLUGIN_DIR_URL, 'clearProductLogsFiles' );
+function clearProductLogsFiles(){
+    $logging = fopen(SC_PLUGIN_DIR."logging/logging.txt", "w") or die("Unable to open file!");
+    fwrite($logging, '');
+    
+    $automaticLog = fopen(SC_PLUGIN_DIR."logging/automaticLog.log", "w") or die("Unable to open file!");
+    fwrite($automaticLog, '');
+    
+    $products = fopen(SC_PLUGIN_DIR."logging/products.json", "w") or die("Unable to open file!");
+    fwrite($products, '');
+    
+    fclose($logging);
+    fclose($automaticLog);
+    fclose($products);
+}

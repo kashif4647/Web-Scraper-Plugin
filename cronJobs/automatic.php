@@ -18,14 +18,20 @@ foreach ($allCategories['categories'] as $key => $category) {
     $cid    = $category['cid'];
     $name   = $category['name'];
 
-    scrapeProductsAutomatic($url, $name);
+    $quantityOption = get_option('quantity_options');
+    $quantity = $quantityOption['scraper-field-quantity'];
+    
+    $count = scrapeProductsAutomatic($url, $name);
+    if($count["count"] == $quantity) break;
     
     if(!empty($category['sub-cats'])){
         foreach ($category['sub-cats'] as $skey => $sub_category) {
             $c_url  = $sub_category['url'].'&sortby=created&order=desc';
             $c_cid  = $sub_category['cid'];
             $c_name = $sub_category['name'];
-            scrapeProductsAutomatic($c_url, $c_name);
+            
+            $counts = scrapeProductsAutomatic($c_url, $c_name);
+            if($counts["count"] == $quantity) break;
         }
     }
 }
@@ -43,7 +49,7 @@ function scrapeProductsAutomatic($url, $name){
 
     $allProducts = array();
     if(!empty($allProductLinks)){
-        automaticLogs("\n ".count($allProductLinks).' Product links has been loaded for category '.$name.'!');
+        automaticLogs("\n ".$quantity.' Product links has been loaded for category '.$name.'!');
         
         $publish_count = 0;
         foreach ($allProductLinks as $key => $link) {
@@ -58,11 +64,12 @@ function scrapeProductsAutomatic($url, $name){
             if(!empty($product)){
                 // writeProductJSONFile($product);
                 $count = saveAutomaticScrapedProducts($product);
-                $publish_count = (int)$publish_count+(int)$count;
+                $publish_count = (int)$publish_count+(int)$count["count"];
 
                 if($publish_count == $quantity){
                     // automaticLogs("New products has been scraped and published successfully! \n");
                     writeProductLogFile('');
+                    return array("count" => $publish_count);
                     break;
                 }
             }
@@ -77,12 +84,12 @@ function saveAutomaticScrapedProducts($product){
         $count = 0;
         if($check['status'] === false){
             writeProductJSONFile($product);
-            $productObj = (object)$product;
+            $productObj = json_decode(json_encode($product), FALSE);
             publishProduct($productObj);
             automaticLogs('Product Published :: '.$productObj->title);
-            return $count+1;
+            return array("count" => $count+1);
         }else{
-            $productObj = (object)$product;
+            $productObj = json_decode(json_encode($product), FALSE);
             updateProduct($productObj, $check['product_id']);
             // automaticLogs('Already Exist :: '.$product->title);
         }
