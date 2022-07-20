@@ -43,6 +43,10 @@ add_filter( 'cron_schedules', 'myprefix_add_weekly_cron_schedule' );
 function myprefix_add_weekly_cron_schedule( $schedules ) {
 	$options 	= get_option('hours_options');
 	$hours 		= $options['scraper-field-hours'];
+
+    if(!$hours){
+        $hours = 1;
+    }
 	
     $schedules['s_hours'] = array(
         'interval' => 60*60*$hours,
@@ -53,8 +57,10 @@ function myprefix_add_weekly_cron_schedule( $schedules ) {
 }
 
 add_action( 'update_option_hours_options', function($old_value, $value, $option){
+    $options 	= get_option('hours_options');
+	$hours 		= $options['scraper-field-hours'];
 
-    if( $old_value !== $value ){
+    if( $old_value !== $value && $hours != '' ){
 		wp_schedule_event( time(), 's_hours', 'cron_simple_example_hook' );
     }
 
@@ -66,3 +72,26 @@ function cron_simple_example()
 {
 	require_once SC_PLUGIN_DIR.'cronJobs/automatic.php';
 }
+
+// add_filter( 'the_title', 'my_shortcode_title' );
+// function my_shortcode_title( $title ){
+//     $splited = explode("]", $title);
+//     if(!empty($splited) && !is_admin()){
+//         $s_title = $splited[0].']';
+        
+//         if(isset($splited[1])){
+//             $text = $splited[1];
+//         }else{
+//             $text = '';
+//         }
+        
+//         $m_title = do_shortcode( $s_title );
+//         $title = $m_title.' '.$text;
+//     }else{
+//         $title = $title;
+//     }
+    
+//     return $title;
+// }
+
+add_filter( 'the_title', 'do_shortcode' );

@@ -43,8 +43,9 @@ function scrapeProductsAutomatic($url, $name){
 
     $allProducts = array();
     if(!empty($allProductLinks)){
-        automaticLogs("\n ".$quantity.' Product links has been loaded for category '.$name.'!');
+        automaticLogs("\n ".count($allProductLinks).' Product links has been loaded for category '.$name.'!');
         
+        $publish_count = 0;
         foreach ($allProductLinks as $key => $link) {
             if( strpos(parse_url($link, PHP_URL_HOST), 'pinkoi.com') !== false ) {
                 $url = $link;
@@ -56,9 +57,10 @@ function scrapeProductsAutomatic($url, $name){
 
             if(!empty($product)){
                 // writeProductJSONFile($product);
-                saveAutomaticScrapedProducts($product);
+                $count = saveAutomaticScrapedProducts($product);
+                $publish_count = (int)$publish_count+(int)$count;
 
-                if((int)$key+1 == $quantity){
+                if($publish_count == $quantity){
                     // automaticLogs("New products has been scraped and published successfully! \n");
                     writeProductLogFile('');
                     break;
@@ -72,12 +74,13 @@ function saveAutomaticScrapedProducts($product){
     $product_id = $product['pid'];
     if($product_id){
         $check = checkProductExist($product_id);
-
+        $count = 0;
         if($check['status'] === false){
             writeProductJSONFile($product);
-            $productObj = (object) $product;
+            $productObj = (object)$product;
             publishProduct($productObj);
             automaticLogs('Product Published :: '.$productObj->title);
+            return $count+1;
         }else{
             $productObj = (object)$product;
             updateProduct($productObj, $check['product_id']);

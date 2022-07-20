@@ -150,6 +150,8 @@ class ProductScraper
 		// Register a new setting for "scraper" page.
 		register_setting( 'scraper-settings', 'hours_options' );
 		register_setting( 'scraper-settings', 'quantity_options' );
+		register_setting( 'scraper-settings', 'template_options' );
+		register_setting( 'scraper-settings', 'currency_options' );
 	 
 		// Register a new section in the "scraper" page.
 		add_settings_section(
@@ -165,6 +167,20 @@ class ProductScraper
 			__( '', 'scraper-quantity' ), 
 			array($this, 'scraper_section_developers_callback'),
 			'scraper-quantity'
+		);
+		
+		add_settings_section(
+			'scraper_section_template',
+			__( '', 'scraper-template' ), 
+			array($this, 'scraper_section_developers_callback'),
+			'scraper-template'
+		);
+		
+		add_settings_section(
+			'scraper_section_currency',
+			__( '', 'scraper-currency' ), 
+			array($this, 'scraper_section_developers_callback'),
+			'scraper-currency'
 		);
 	 
 		// Register a new field in the "scraper_section_developers" section, inside the "scraper" page.
@@ -195,6 +211,34 @@ class ProductScraper
 				'scraper_custom_data' => 'custom',
 			)
 		);
+		
+		add_settings_field(
+			'scraper-field-template', // As of WP 4.6 this value is used only internally.
+									// Use $args' label_for to populate the id inside the callback.
+				__( 'Select Template', 'scraper-template' ),
+			array($this, 'scraperFieldTemplate'),
+			'scraper-template',
+			'scraper_section_template',
+			array(
+				'label_for'         => 'scraper-field-template',
+				'class'             => 'scraper_row',
+				'scraper_custom_data' => 'custom',
+			)
+		);
+		
+		add_settings_field(
+			'scraper-field-currency', // As of WP 4.6 this value is used only internally.
+									// Use $args' label_for to populate the id inside the callback.
+				__( 'Select Currency', 'scraper-currency' ),
+			array($this, 'scraperFieldCurrency'),
+			'scraper-currency',
+			'scraper_section_currency',
+			array(
+				'label_for'         => 'scraper-field-currency',
+				'class'             => 'scraper_row',
+				'scraper_custom_data' => 'custom',
+			)
+		);
 	}
 
 	function scraper_section_developers_callback(){}
@@ -212,6 +256,44 @@ class ProductScraper
 		$quantity = get_option( 'quantity_options' );
 		?>
 		<input type="text" value="<?= $quantity['scraper-field-quantity'] ?>" id="<?php echo esc_attr( $args['label_for'] ); ?>" class="scraper-settings" name="quantity_options[<?php echo esc_attr( $args['label_for'] ); ?>]">
+	<?php
+	}
+	
+	function scraperFieldTemplate( $args ) {
+		// Get the value of the setting we've registered with register_setting()
+		$template = get_option( 'template_options' );
+		// print_r($template[0]);
+		$args = array(
+			'post_type' => 'act_template',
+			'posts_per_page' => -1
+		);
+		$query = new WP_Query($args);
+		if ($query->have_posts() ) :
+			echo '<select id="'.esc_attr( $args['label_for'] ).'" class="scraper-settings" name="template_options['.esc_attr( $args['label_for'] ).']">';
+			echo '<option value="">Select any template</option>';
+			while ( $query->have_posts() ) : $query->the_post();
+				if($template[0] == get_the_ID()){
+					$selected = 'selected';
+				}else{
+					$selected = '';
+				}
+				echo '<option value="' . get_the_ID() . '" '.$selected.'>' . get_the_title() . '</option>';
+			endwhile;
+			echo '</select>';
+			wp_reset_postdata();
+		endif;
+		?>
+	<?php
+	}
+	
+	function scraperFieldCurrency( $args ) {
+		// Get the value of the setting we've registered with register_setting()
+		$currency = get_option( 'currency_options' ); ?>
+		<select id="<?= esc_attr( $args['label_for'] ) ?>" class="scraper-settings" name="currency_options[<?= esc_attr( $args['label_for'] ); ?>]">
+			<option value="">Select currency</option>
+			<option value="US$" <?= ($currency['scraper-field-currency'] == 'USD')? 'selected' : '' ?>>USD</option>
+			<option value="NT$" <?= ($currency['scraper-field-currency'] == 'TWD')? 'selected' : '' ?>>TWD</option>
+		</select>
 	<?php
 	}
 }

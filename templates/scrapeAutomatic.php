@@ -24,6 +24,8 @@ settings_errors( 'scraper_messages' );
             settings_fields( 'scraper-settings' );
             do_settings_sections( 'scraper-hours' );
             do_settings_sections( 'scraper-quantity' );
+            do_settings_sections( 'scraper-template' );
+            do_settings_sections( 'scraper-currency' );
 
             submit_button( 'Save Settings' );
             ?>

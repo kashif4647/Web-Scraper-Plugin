@@ -86,6 +86,7 @@ function scrapCatProducts($url){
     if(!$title){
         $curl = curl_init($url);
         curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
+        // curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
         $collect_data = array();
         $strCookie = 'adult_confirmed=1; path=/';
         curl_setopt( $curl, CURLOPT_COOKIE, $strCookie ); 
@@ -317,16 +318,35 @@ function setPostThumbnailFromURL($url, $post_id){
     set_post_thumbnail( $post_id, $attach_id );
 }
 
+function getAssignedTemplate(){
+    $template = get_option( 'template_options' );
+    if($template[0]){
+        $post   = get_post( $template[0] );
+        return $post;
+    }
+    return false;
+}
+
 function publishProduct($product){
     $catIds = getCatIdsByName($product->prod_cats);
 
+    $post = getAssignedTemplate();
+    if($post != false){
+        $body   = $post->post_content;
+        $title  = $post->post_title;
+    }else{
+        $body = wp_kses_post($product->description);
+        $title = $product->title;
+    }
+
     global $user_ID;
     $new_post = array(
-        'post_title' => $product->title,
-        'post_content' => wp_kses_post($product->description),
+        'post_title' => $title,
+        'post_name' => sanitize_title_with_dashes($product->$title),
+        'post_content' => $body,
         'post_status' => 'publish',
         'post_date' => date('Y-m-d H:i:s'),
-        'post_author' => $user_ID,
+        'post_author' => 1,
         'post_type' => 'post',
         'post_category' => $catIds
     );
@@ -338,13 +358,14 @@ function publishProduct($product){
         }else{
             $price = '';
         }
+        
         wp_set_post_tags( $post_id, $product->prod_tags, true );
         update_post_meta($post_id, 'product_title', $product->title);
         update_post_meta($post_id, 'product_description', wp_kses_post($product->description));
         update_post_meta($post_id, 'sku', $product->pid);
-        update_post_meta($post_id, 'price', 'NT$ '.$price);
+        update_post_meta($post_id, 'price', $price);
         if(isset($product->price->discount) && trim($product->price->discount)){
-            update_post_meta($post_id, 'discount_price', 'NT$ '.$product->price->discount);
+            update_post_meta($post_id, 'discount_price', $product->price->discount);
         }
         update_post_meta($post_id, 'product_link', $product->url);
         update_post_meta($post_id, 'product_brand', trim(wp_filter_nohtml_kses($product->brand)));
@@ -378,14 +399,24 @@ function publishProduct($product){
 function updateProduct($product, $product_id){
     $catIds = getCatIdsByName($product->prod_cats);
 
+    $post = getAssignedTemplate();
+    if($post != false){
+        $body   = $post->post_content;
+        $title  = $post->post_title;
+    }else{
+        $body = wp_kses_post($product->description);
+        $title = $product->title;
+    }
+
     global $user_ID;
     $new_post = array(
         'ID' => $product_id,
-        'post_title' => $product->title,
-        'post_content' => wp_kses_post($product->description),
+        'post_title' => $title,
+        'post_name' => sanitize_title_with_dashes($product->$title),
+        'post_content' => $body,
         'post_status' => 'publish',
         'post_date' => date('Y-m-d H:i:s'),
-        'post_author' => $user_ID,
+        'post_author' => 1,
         'post_type' => 'post',
         'post_category' => $catIds
     );
@@ -397,13 +428,14 @@ function updateProduct($product, $product_id){
         }else{
             $price = '';
         }
+
         wp_set_post_tags( $post_id, $product->prod_tags, true );
         update_post_meta($post_id, 'product_title', $product->title);
         update_post_meta($post_id, 'product_description', wp_kses_post($product->description));
         update_post_meta($post_id, 'sku', $product->pid);
-        update_post_meta($post_id, 'price', 'NT$ '.$price);
+        update_post_meta($post_id, 'price', $price);
         if(isset($product->price->discount) && trim($product->price->discount)){
-            update_post_meta($post_id, 'discount_price', 'NT$ '.$product->price->discount);
+            update_post_meta($post_id, 'discount_price', $product->price->discount);
         }
         update_post_meta($post_id, 'product_link', $product->url);
         update_post_meta($post_id, 'product_brand', trim(wp_filter_nohtml_kses($product->brand)));

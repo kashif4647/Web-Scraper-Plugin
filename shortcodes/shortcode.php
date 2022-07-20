@@ -39,18 +39,24 @@ function shortcodeProductPrice(){
 
     $price = get_field( "price", $post->ID );
     $discount_price = get_field( "discount_price", $post->ID );
+
+    $currency_opt   = get_option( 'currency_options' );
+    if($currency_opt['scraper-field-currency']){
+        $currency   = $currency_opt['scraper-field-currency'].' ';
+    }else{
+        $currency   = 'NT$ ';
+    }
     ?>
     <div class="price discount-price js-price">
-        <span class="amount"><?= $price ?></span>
+        <span class="amount"><?= $currency.' '.$price ?></span>
         <?php
         if($discount_price){ ?>
-            <span class="discount">
-                <span class="amount"><?= $discount_price ?></span>
+            <span class="discount" style="text-decoration: line-through;">
+                <span class="amount"><?= $currency.' '.$discount_price ?></span>
             </span>
         <?php
         } ?>
     </div>
-
     <?php
     return ob_get_clean();
 }
